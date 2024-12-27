@@ -4,7 +4,7 @@ UMB-Protocol application in python
 Modification from the original Author(Pascal Deneaux) https://github.com/Tasm-Devil/lufft-python
 
 - Contains Executable file UMB.exe (main.ui file has to be in the same folder)
-- Baud rate is already set 19200
+- Baud rate is already set at 19200bps
 - Data is saved in "DataOutput.csv" at every 5 seconds.
 
 -  WeatherSensor.py is the python3 code (slightly modified from the origial author)
